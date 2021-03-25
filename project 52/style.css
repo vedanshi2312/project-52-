@@ -1,0 +1,35 @@
+h1{
+    color: magenta;    
+}
+.header{
+    border: solid;
+    background-color: mediumspringgreen;
+    display: flex;
+    justify-content: space-between; 
+}
+.grade{
+    display: flex;
+    flex-wrap: wrap;
+    border: solid;
+border-color: rgb(255, 0, 0);
+}
+body{
+    background: lightblue;
+}
+.items:hover img{
+    opacity: 0.10;
+ }
+ .items{
+    border: solid;
+    border-color: rgb(54, 2, 196);
+ }
+ a:link{
+
+    color: rgb(221, 14, 14);
+}
+a:visited{
+
+    color: rgb(221, 14, 14);
+}
+
+
